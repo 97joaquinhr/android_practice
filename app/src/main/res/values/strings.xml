@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picture practice</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_access">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="empty_password">The password field is empty.</string>
+    <string name="empty_username">The username field is empty.</string>
+    <string name="title_activity_list">ActivityList</string>
+</resources>

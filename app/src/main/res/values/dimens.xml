@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_Size">72dp</dimen>
+    <dimen name="image_logo_size">170dp</dimen>
+</resources>

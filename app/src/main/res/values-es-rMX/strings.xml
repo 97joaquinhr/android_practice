@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica de fotos</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_access">Inicio de sesión</string>
+    <string name="btn_login">Inicia sesión</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="empty_password">El campo de contraseña está vacío.</string>
+    <string name="empty_username">El campo de usuario está vacío.</string>
+
+</resources>
